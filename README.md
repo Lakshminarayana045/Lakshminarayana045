@@ -1,3 +1,3 @@
-👋 Hi, I’m @LakshmiNarayana Konanki
-I am Python Full Stack Web Developer. 
+👋 Hi, I’m @LakshmiNarayana Konanki <br>
+I am Python Full Stack Web Developer. <br>
 I’m interested in HTML, CSS, JavaScript, and Django

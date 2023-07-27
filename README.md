@@ -4,10 +4,8 @@
 I am Python Full Stack Web Developer. <br>
 
 
-I am LakshmiNarayana, a developer from Andhra Pradesh. I am currently employed as a Software Engineer. 
-
 🖥️ I’m interested in 
-+  Programming-Language:     Python
++  Programming-Language:    <span> Python </span>
 +  Database:                 MySQL, SQLite
 +  Ui Technologies:          HTML, CSS, Bootstrap, JavaScript, jQuery
 +  Framework:                Django

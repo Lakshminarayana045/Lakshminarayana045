@@ -1,7 +1,7 @@
 <h1> 👋 Hi,  </h1><br>
 
 <h1>  I am @LakshmiNarayana Konanki </h1>
-<h3> I am Python Full Stack Web Developer. </h3>  <br>
+<h3> I am Python Full Stack Web Developer. </h3>  <br><br>
 
 
 
@@ -10,21 +10,21 @@
 <h3> <b><u> +  Database:   MySQL, SQLite  </b>  </h3>  
 <h3> <b><u> +  UI Technologies:HTML, CSS, Bootstrap, JavaScript, jQuery </b> </h3>
 <h3> <b><u> +  Framework: Django    </b> </h3>  
-<h3> <b><u> +  Tools:    Git, GitHub, MS Office, Visual Studio </b> </h3> 
+<h3> <b><u> +  Tools:    Git, GitHub, MS Office, Visual Studio </b> </h3>  <br><br><br>
                  
 
 
-<h2> ### 🔗 Ways to Reach Me </h2> 
+### 🔗 Ways to Reach Me
 + [Email](mailto:klakshminarayana045@gmail.com)
 + [LinkedIn](https://www.linkedin.com/in/k-lakshmi-narayana-4675ba273)
-+ [Github](https://github.com/Lakshminarayana045)
++ [Github](https://github.com/Lakshminarayana045)   <br><br><br>
 
 
 
 
 ### My Personal Website
 this not add
-+ [Personal Website](https://asifulnobel.github.io/)
++ [Personal Website](https://asifulnobel.github.io/)  <br><br><br>
 
 
 

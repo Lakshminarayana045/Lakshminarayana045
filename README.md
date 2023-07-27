@@ -5,7 +5,7 @@
 
 
 
-<h2> 🖥️ I’m interested in </h2> 
+<h2> 🖥️ I’m interested in, </h2> 
 <h3> <b><u> +  Programming-Language:  Python </b> </h3>
 <h3> <b><u> +  Database:   MySQL, SQLite  </b>  </h3>  
 <h3> <b><u> +  UI Technologies:HTML, CSS, Bootstrap, JavaScript, jQuery </b> </h3>

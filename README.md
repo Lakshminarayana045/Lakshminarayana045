@@ -6,11 +6,11 @@
 
 
 <h2> 🖥️ I’m interested in, </h2> 
-<h3> <b><u> +  Programming-Language:  Python </b> </h3>
-<h3> <b><u> +  Database:   MySQL, SQLite  </b>  </h3>  
-<h3> <b><u> +  UI Technologies:HTML, CSS, Bootstrap, JavaScript, jQuery </b> </h3>
-<h3> <b><u> +  Framework: Django    </b> </h3>  
-<h3> <b><u> +  Tools:    Git, GitHub, MS Office, Visual Studio </b> </h3>  <br><br><br>
+<h3> <b><u> +  Programming-Language:::  Python </b> </h3>
+<h3> <b><u> +  Database:::   MySQL, SQLite  </b>  </h3>  
+<h3> <b><u> +  UI Technologies:::  HTML, CSS, Bootstrap, JavaScript, jQuery </b> </h3>
+<h3> <b><u> +  Framework::: Django    </b> </h3>  
+<h3> <b><u> +  Tools:::    Git, GitHub, MS Office, Visual Studio </b> </h3>  <br><br><br>
                  
 
 

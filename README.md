@@ -1,16 +1,16 @@
 <h1> 👋 Hi,  </h1><br>
 
 <h1>  I am @LakshmiNarayana Konanki </h1> <br>
-<h3> I am Python Full Stack Web Developer. </h3>
+<h3> I am Python Full Stack Web Developer. </h3>  <br>
 
 
 
 <h2> 🖥️ I’m interested in </h2> 
-<h3> <b><u> +  Programming-Language:   </b> </h3>  <h2> Python </h2> 
-<h3> <b><u> +  Database:   </b>  </h3>  <h2> MySQL, SQLite </h2> 
-<h3> <b><u> +  UI Technologies: </b> </h3>  <h2> HTML, CSS, Bootstrap, JavaScript, jQuery </h2> 
+<h3> <b><u> +  Programming-Language:  Python </b> </h3>
+<h3> <b><u> +  Database:   MySQL, SQLite  </b>  </h3>  
+<h3> <b><u> +  UI Technologies:HTML, CSS, Bootstrap, JavaScript, jQuery </b> </h3>
 <h3> <b><u> +  Framework:    </b> </h3>  <h2> Django</h2> 
-<h3> <b><u> +  Tools:     </b> </h3>  <h2> Git, GitHub, MS Office, Visual Studio </h2> 
+<h3> <b><u> +  Tools:    Git, GitHub, MS Office, Visual Studio </b> </h3> 
                  
 
 

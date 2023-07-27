@@ -1,6 +1,6 @@
 <h1> 👋 Hi,  </h1><br>
 
-<h1>  I am @LakshmiNarayana Konanki </h1> <br>
+<h1>  I am @LakshmiNarayana Konanki </h1>
 <h3> I am Python Full Stack Web Developer. </h3>  <br>
 
 
@@ -9,7 +9,7 @@
 <h3> <b><u> +  Programming-Language:  Python </b> </h3>
 <h3> <b><u> +  Database:   MySQL, SQLite  </b>  </h3>  
 <h3> <b><u> +  UI Technologies:HTML, CSS, Bootstrap, JavaScript, jQuery </b> </h3>
-<h3> <b><u> +  Framework:    </b> </h3>  <h2> Django</h2> 
+<h3> <b><u> +  Framework: Django    </b> </h3>  
 <h3> <b><u> +  Tools:    Git, GitHub, MS Office, Visual Studio </b> </h3> 
                  
 

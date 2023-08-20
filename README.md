@@ -1,6 +1,6 @@
 <h1> 👋 Hi,  </h1><br>
 
-<h1>  I am @LakshmiNarayana Konanki </h1>
+<h1>  I am @ LakshmiNarayana Konanki </h1>
 <h3> I am Python Full Stack Web Developer. </h3>  <br><br>
 
 
@@ -23,8 +23,8 @@
 
 
 ### My Personal Website
-this not add
-+ [Personal Website](https://asifulnobel.github.io/)  <br><br><br>
+
++ [Personal Website](https://lakshminarayana045.github.io/My_Website/)  <br><br><br>
 
 
 

@@ -14,7 +14,7 @@
                  
 
 
-### 🔗 Reach Out Me @t
+### 🔗 Reach Out Me @
 + [Email](mailto:klakshminarayana045@gmail.com)
 + [LinkedIn](https://www.linkedin.com/in/k-lakshmi-narayana-4675ba273)
 + [Github](https://github.com/Lakshminarayana045)   <br><br><br>

@@ -14,7 +14,7 @@
                  
 
 
-### 🔗 Ways to Reach Me
+### 🔗 Reach Out Me @t
 + [Email](mailto:klakshminarayana045@gmail.com)
 + [LinkedIn](https://www.linkedin.com/in/k-lakshmi-narayana-4675ba273)
 + [Github](https://github.com/Lakshminarayana045)   <br><br><br>
@@ -22,7 +22,7 @@
 
 
 
-### My Personal Website
+### Personal Website
 
 + [Personal Website](https://lakshminarayana045.github.io/My_Website/)  <br><br><br>
 

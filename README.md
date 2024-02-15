@@ -24,7 +24,7 @@
 
 ### Personal Website
 
-+ [Personal Website](https://lakshminarayana045.github.io/My_Website/)  <br><br><br>
++ [Personal Website](https://lakshminarayana045.github.io/website/)  <br><br><br>
 
 
 
